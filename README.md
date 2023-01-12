@@ -1,3 +1,3 @@
 # demo--repo
 
-Created for demo.
+Created for demo!
